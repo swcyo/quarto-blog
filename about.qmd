@@ -1,0 +1,40 @@
+---
+title: "关于本站"
+image: profile.png
+description: 欧阳松的Quarto博客
+about:
+  template: trestles
+  image-width: 10em
+  links:
+    - icon: envelope
+      text: E-mail
+      href: mailto:ouyangsong@shzu.edu.cn
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?hl=zh-CN&pli=1&user=eTN286IAAAAJ
+    - icon: github
+      text: Github
+      href: https://github.com/swcyo
+---
+
+   之前使用**blogdown**构建了个人网址，运行了一年多，虽然Rmarkdown很优秀，但随着Quarto的开发，更多的功能被实现，虽然Quarto也有不足的地方，但本站仍然基于Quarto再次更新，同时也纠正以前的一些错误。
+
+   本站基于**Quarto**构建，算是**RStudio**的下一代产品，可兼顾Python，站点也比较之前简单了很多，也希望今后越来越完善。
+
+------------------------------------------------------------------------
+
+**我的联系方式：**
+
+   **Email**：[ouyangsong\@shzu.edu.cn](mailto:ouyangsong@shzu.edu.cn "教育邮箱") ; [swcyo\@126.com](mailto:swcyo@126.com "常用邮箱")
+
+   **QQ**：297481169
+
+   **微信**：swcyoyond
+
+   **地址**: 新疆石河子市北二路107号
+
+------------------------------------------------------------------------
+
+<iframe src="https://map.baidu.com/@9580947.21,5482645.55,19z" width="900" height="600" frameborder="0" style="border:0">
+
+</iframe>

@@ -1,0 +1,254 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr. Song Ou-Yang",
+    "section": "",
+    "text": "基于Quarto构建的个人博客，用于纪录R语言在医学中的应用。\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nNov 23, 2022\n\n\nPost With Code\n\n\nHarlow Malloc\n\n\n\n\nNov 23, 2022\n\n\nQuarto demonstration\n\n\nJulia Müller\n\n\n\n\nNov 20, 2022\n\n\nWelcome To My Blog\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "关于本站",
+    "section": "",
+    "text": "之前使用blogdown构建了个人网址，运行了一年多，虽然Rmarkdown很优秀，但随着Quarto的开发，更多的功能被实现，虽然Quarto也有不足的地方，但本站仍然基于Quarto再次更新，同时也纠正以前的一些错误。\n   本站基于Quarto构建，算是RStudio的下一代产品，可兼顾Python，站点也比较之前简单了很多，也希望今后越来越完善。\n\n我的联系方式：\n   Email：ouyangsong@shzu.edu.cn ; swcyo@126.com\n   QQ：297481169\n   微信：swcyoyond\n   地址: 新疆石河子市北二路107号"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "常用软件",
+    "section": "",
+    "text": "作为科研狗，每天都要跟各种各样的软件打交道，然而许多软件并不是免费，许多科研工作者电脑一旦重装系统，总要第一时间去找各种资源，经常很多朋友问我要软件下载资源。。。\n其实，网上有许多破解资源，也不是很难找，以前我的硬盘上也保存了很多资源，但随着时代的发展，许多软件也在不断的更新，其实很多时候我们并不需要哪个版本，我们更需要的是软件的名字本身，要知道它能做什么。\n我列举一些我平时比较常用的软件，很多都保存在我的百度网盘上，也有在微云上我的，我也懒得一个一个去整理，如果确实有需要，也可以与我私聊。\n另外，这只是我列举的一部分软件，大家如果有更好的软件，可以在下方留言评论。"
+  },
+  {
+    "objectID": "software.html#统计学软件",
+    "href": "software.html#统计学软件",
+    "title": "常用软件",
+    "section": "统计学软件",
+    "text": "统计学软件\n   统计学软件是最常用的，我目前主要专注与R语言的应用，原因无他，免费-强大！！！\n\n\n\n\n\n\nTip\n\n\n\n\nR （包罗万象的统计软件，开源免费）\nRStudio （R的可视化编辑器，需先安装R）\nSPSS （常用的统计学软件，但图片美观欠佳）\n\nWindows版\nMac版\n\nGraphPad Prism 9.0（科研人最实用的统计学软件）\n\nWindows版 （链接: https://pan.baidu.com/s/1bPLvDh9Ei80MKSuYFF8DDg 密码: m3v9）\nMac版（可私信我）\n\nOrigin 2019b （教育邮箱注册可以免费3个月）\njamovi（一款开源免费的统计学软件，以SPSS的界面，嵌入R语言的统计）"
+  },
+  {
+    "objectID": "software.html#科研实验软件",
+    "href": "software.html#科研实验软件",
+    "title": "常用软件",
+    "section": "科研实验软件",
+    "text": "科研实验软件\n\n\n\n\n\n\nTip\n\n\n\n\nImageJ（开源免费，用于WB的灰度值测量、细胞计数、荧光融合、拼接图片等）\nFiji（ImageJ的升级版，包含许多科研插件）\nFCS （用于流式细胞仪的统计）\n\nWindows版\nMac版（链接: https://pan.baidu.com/s/1n1ZZ33SKj57NeBiCtzUXYw 密码: 61sh）"
+  },
+  {
+    "objectID": "software.html#文献管理管理",
+    "href": "software.html#文献管理管理",
+    "title": "常用软件",
+    "section": "文献管理管理",
+    "text": "文献管理管理\n\n\n\n\n\n\nTip\n\n\n\n\nEndnote （最常用的文献管理软件，对中文支持较差，无中文数据库）\nNoteExpress （推荐，国产文献管理软件，支持中英文数据库，大学IP免费使用）\n医学文献王 （实用的国产文献管理软件，免费版可以使用30条参考文献）\nPaper （Mac系统可用的文献管理软件，智能化）\nZotero （最全面的文献管理软件，开源免费）"
+  },
+  {
+    "objectID": "software.html#图像处理软件",
+    "href": "software.html#图像处理软件",
+    "title": "常用软件",
+    "section": "图像处理软件",
+    "text": "图像处理软件\n\n\n\n\n\n\nTip\n\n\n\n\nAdobe Photshop （PS，不解释，但是只能导出非矢量图）\n\nWindows (链接: https://pan.baidu.com/s/1ud_RrAPZ-NWxyFHU4LGU0g 密码: gmg8)\nMac (链接: https://pan.baidu.com/s/1BsbLjr0zDOUFXpKsVAZOEg 密码: oi5n)\n\nAdobe Illustrator （AI，处理矢量图的好工具，可以导出多种格式）\n\nWindows(链接: https://pan.baidu.com/s/1uRhGSBJkkfarmmoJiV3qlQ 密码: 2rnf)\nMac (链接: https://pan.baidu.com/s/1JG-adBaSEM4lA1LjIBq6MQ 密码: ih40)"
+  },
+  {
+    "objectID": "software.html#文档管理软件",
+    "href": "software.html#文档管理软件",
+    "title": "常用软件",
+    "section": "文档管理软件",
+    "text": "文档管理软件\n\n\n\n\n\n\nTip\n\n\n\n\nAdobe Acrobat （可以阅读PDF，可以导出多种文献格式，还可以处理图片）\n\nWindows(链接: 链接: https://pan.baidu.com/s/1Loz-15lJt7BLT4gt74bRfg 密码: dj3w)\nMac (链接: https://pan.baidu.com/s/10dFUI0N4KQxBm_O0L6dm7g 密码: an2l)\n\nWPS （国产文档处理软件，功能强大）\nMicrosoft Office （盗版无限的软件）"
+  },
+  {
+    "objectID": "software.html#流程图软件",
+    "href": "software.html#流程图软件",
+    "title": "常用软件",
+    "section": "流程图软件",
+    "text": "流程图软件\n\n\n\n\n\n\nTip\n\n\n\n\nVisio （链接: https://pan.baidu.com/s/190hVDpF23xtfi2IigS37mA 密码: m2bj）\n亿图 （链接: https://pan.baidu.com/s/1DsRer81eTcAe-T-fJ-g3mg 密码: l301）"
+  },
+  {
+    "objectID": "software.html#推荐书籍及代码",
+    "href": "software.html#推荐书籍及代码",
+    "title": "常用软件",
+    "section": "推荐书籍及代码",
+    "text": "推荐书籍及代码\n\n\n\n\n\n\nTip\n\n\n\n\n仙桃学术示例书籍及代码 （链接: https://pan.baidu.com/s/1NfBnWveq-6tfsqG30ikIug?pwd=f4h3 提取码: f4h3）\nR语言医学教程配套代码和彩图.zip （链接: https://pan.baidu.com/s/1rIbPkA5C_qgcp5t2P4xgNA?pwd=bwkb 提取码: bwkb）"
+  },
+  {
+    "objectID": "link.html",
+    "href": "link.html",
+    "title": "友情链接",
+    "section": "",
+    "text": "友情链接\n网址\n\n\n\n\n石河子大学\nhttps://www.shzu.edu.cn/\n\n\n石河子大学医学院第一附属语言\nhttps://www.sdyfy.com.cn/\n\n\n华中科技大学\nhttps://www.hust.edu.cn/\n\n\n华中科技大学同济医学院附属同济医院\nhttps://www.tjh.com.cn/\n\n\n新疆生产建设兵团\nhttp://xjbt.gov.cn/"
+  },
+  {
+    "objectID": "link.html#个人博客友情链接",
+    "href": "link.html#个人博客友情链接",
+    "title": "友情链接",
+    "section": "2 个人博客友情链接",
+    "text": "2 个人博客友情链接\n\n\n\n友情链接\n网址\n\n\n\n\n谢益辉\nhttps://yihui.org/\n\n\n余光创\nhttps://guangchuangyu.github.io/\n\n\n黄湘云\nhttps://xiangyun.rbind.io/\n\n\nhope博客\nhttp://tiramisutes.github.io/\n\n\n楚新元\nhttps://cxy.rbind.io/"
+  },
+  {
+    "objectID": "link.html#学习r语言的相关链接",
+    "href": "link.html#学习r语言的相关链接",
+    "title": "友情链接",
+    "section": "3 学习R语言的相关链接",
+    "text": "3 学习R语言的相关链接\n\n\n\n友情链接\n网址\n\n\n\n\n小洁忘了怎么分身的简书\nhttps://www.jianshu.com/u/c93ac360691a\n\n\nYuLab-SMU\nhttps://yulab-smu.top/\n\n\n统计之都\nhttps://cosx.org/\n\n\n生信技能树\nhttp://www.biotrainee.com/"
+  },
+  {
+    "objectID": "link.html#生信公众号推荐",
+    "href": "link.html#生信公众号推荐",
+    "title": "友情链接",
+    "section": "4 生信公众号推荐",
+    "text": "4 生信公众号推荐\n\n\n\n\n\n\n\n\n\n微信公众号\n微信号\n微信公众号\n微信号\n\n\n\n\nR语言统计与绘图\ncsuduanxm\n生信星球\nbioinfoplanet\n\n\nYulab-SMU\nbiobabble\n生信媛\nbio_sxy\n\n\n艾米的科研宝库\ngh_9471b96c211c\n生信助手\nSCIPhD\n\n\n果子学生信\nguozixueshengxin\n挑圈联靠\nZcxstx0304\n\n\n很狂的科研人\nhkdkyr\n统计之都\nCapStat\n\n\n解螺旋\nHelixLife\n小丫画图\nFigureYa\n\n\n科研菌\nkeyanjun2020\n小张聊科研\nxzlky2015\n\n\n生信宝典\nBio_data\n一棵树zj\nyikeshuzj\n\n\n生信菜鸟团\nbio_123456789\n医学科研人时间\ngh_63927be0b788\n\n\n生信技能树\nbiotrainee\n医学数据库百科\nyxkygjx\n\n\n生信人\nbiosxr\n庄闪闪的R语言手册\nZss_R4ds\n\n\n生信小课堂\nshengxinxiaoketang\n作图Y\nbiomining"
+  },
+  {
+    "objectID": "link.html#生信极客部落导航",
+    "href": "link.html#生信极客部落导航",
+    "title": "友情链接",
+    "section": "5 生信极客部落导航",
+    "text": "5 生信极客部落导航\n最后链接一个万花筒，http://www.xiaolvji.com/u/bioinfoclub"
+  },
+  {
+    "objectID": "achievements/publication.html",
+    "href": "achievements/publication.html",
+    "title": "发表文章",
+    "section": "",
+    "text": "百度学术\nORCID\n知网作者\n万方学者\n谷歌学术"
+  },
+  {
+    "objectID": "achievements/publication.html#我的专属学术网站",
+    "href": "achievements/publication.html#我的专属学术网站",
+    "title": "publication",
+    "section": "我的专属学术网站",
+    "text": "我的专属学术网站\n\n百度学术\nORCID\n知网作者\n万方学者\nGoogle scholar"
+  },
+  {
+    "objectID": "achievements/publication.html#年文章",
+    "href": "achievements/publication.html#年文章",
+    "title": "发表文章",
+    "section": "2 2022年文章",
+    "text": "2 2022年文章\nWei, X., Qin, Y., Ouyang, S., Qian, J., Tu, S., Yao, J.”Challenging surgical treatment of giant retroperitoneal liposarcoma: A case report”. Oncology Letters 24, no. 3 (2022): 314. https://doi.org/10.3892/ol.2022.13434"
+  },
+  {
+    "objectID": "achievements/publication.html#年文章-1",
+    "href": "achievements/publication.html#年文章-1",
+    "title": "发表文章",
+    "section": "3 2020年文章",
+    "text": "3 2020年文章\n\nSong O Y , Liu J H , Wang Q Z . Upregulation of RAC3 in bladder cancer predicts adverse clinical outcome and increased tumor immune response[J]. International Journal of Clinical and Experimental Pathology, 2020, 13(12):2937-2949.\nSong O Y , Liu J H , Wang Q Z . Expression patterns and a prognostic model of m 6 A-associated regulators in prostate adenocarcinoma[J]. Biomarkers in Medicine, 2020, 14(18):1717-1731.\nOuyang S , Liu J H , Ni Z , et al. Downregulation of ST3GAL5 is associated with muscle invasion, high grade and a poor prognosis in patients with bladder cancer[J]. Oncology letters, 2020, 20(1).\n欧阳松,倪钊,李强,王勤章,丁国富,刘继红.高表达MMP14与肾透明细胞癌预后及影响机制研究[J].农垦医学,2020,42(06):519-522.\n欧阳松,刘继红,倪钊,李强,丁国富,王勤章.ST3GAL5在膀胱尿路上皮癌中表达水平、预后分析及作用机制的研究[J].现代泌尿生殖肿瘤杂志,2020,12(04):206-212."
+  },
+  {
+    "objectID": "achievements/publication.html#年-2019年文章",
+    "href": "achievements/publication.html#年-2019年文章",
+    "title": "发表文章",
+    "section": "4 2013年-2019年文章",
+    "text": "4 2013年-2019年文章\n\n4.1 论文论著：\n\nZhao Ni, Hui Zhuo, Qing Yang, Song Ouyang, Wei Lin. Expressions and clinical significance of PSA, ALP and associated indicators in serum of prostate cancer patients with osseous metastasis[J]. Acta Medica Mediterranea, 2018,34(6):1815-1820. \n王新敏,刘志立,李强,李晨,欧阳松,李应龙,倪钊,钱彪,王勤章.三孔法腹腔镜经腹膜外前列腺癌根治术临床疗效观察(附27例报告)[J].现代泌尿生殖肿瘤杂志,2018,10(04):225-227.\n倪钊,王勤章,李应龙,李强,钱彪,王新敏,欧阳松,李晨,董洪超,高存祥,刘志立.LRIG3基因过表达对膀胱癌耐药细胞株顺铂敏感性的作用及机制[J].中国老年学杂志,2018,38(02):268-271.\n王燕,欧阳松,倪钊,钱彪,王勤章.新疆石河子地区550例泌尿系结石情况分析[J].国际泌尿系统杂志,2017,37(06):829-831.\n欧阳松,李应龙,倪钊,王勤章.经尿道精囊镜技术在泌尿男科的应用[J].农垦医学,2017,39(04):321-324.\n欧阳松,倪钊,钱彪,王勤章,丁国富,赵永平.显微镜腹股沟下精索静脉结扎术疗效分析[J].现代泌尿外科杂志,2017,22(03):192-195.\n欧阳松,马路平,钱彪.互联网时代留学生临床教学模式探讨[J].农垦医学,2017,39(01):87-89.\n欧阳松,李强,倪钊,李应龙,王新敏,钱彪,王勤章,丁国富.解剖性腹腔镜下根治性全膀胱切除术的应用[J].现代泌尿生殖肿瘤杂志,2016,8(06):358-359.\n李强,欧阳松,钱彪,丁国富,倪钊,王勤章.淋巴管新生与肾透明细胞癌预后的相关性分析[J].中国临床药理学杂志,2015,31(16):1635-1637.\n欧阳松,倪钊,王新敏,钱彪,王文晓,王江平,王勤章,丁国富.改良R.E.N.A.L.评分在后腹腔镜肾部分切除术中的应用[J].现代泌尿生殖肿瘤杂志,2015,7(02):68-71.\n李强,王勤章,丁国富,欧阳松.后腹腔镜肾盂切开联合膀胱软镜碎石取石术8例报告[J].现代泌尿外科杂志,2014,19(11):716-718.\n王新敏,章乐,丁国富,王勤章,欧阳松,李应龙,倪钊,钱彪,王文晓.PBL教学方法在泌尿外科教学中的应用[J].科技信息,2014(15):376+381.\n赵亚伟,王砺,李前跃,马旺,王勤章,欧阳松.121例肾细胞癌患者临床及预后分析[J].山东医药,2013,53(42):55-56.\n欧阳松,王勤章,丁国富,李强,倪钊,李应龙,王新敏,王文晓.单孔后腹腔镜与标准后腹腔镜输尿管切开取石术的对比研究[J].中华腔镜泌尿外科杂志(电子版),2013,7(05):24-27.\n欧阳松,王勤章,丁国富,李强,倪钊,李应龙,王新敏,王文晓.单孔后腹腔镜输尿管切开取石术12例报告[J].现代泌尿外科杂志,2013,18(04):409-410.\n欧阳松. 单孔后腹腔镜与标准后腹腔镜输尿管切开取石术的对比研究[D].石河子大学,2013.\n欧阳松,王勤章,丁国富.不同单孔腹腔镜手术通道套管在泌尿外科中的应用[J].医学综述,2013,19(05):887-889."
+  },
+  {
+    "objectID": "achievements/project.html",
+    "href": "achievements/project.html",
+    "title": "科研课题",
+    "section": "",
+    "text": "项目来源\n石河子大学科研项目\n\n\n\n\n立项来源\n石河子大学自主立项项目\n\n\n项目名称\nS100A8对膀胱癌恶性生物学行为的影响机制研究\n\n\n项目编号\nZZZC202184\n\n\n项目经费\n6万元\n\n\n项目主持人\n欧阳松\n\n\n起止日期\n2022年1月-2023年12月\n\n\n\n\n\n\n\n\n\n项目来源\n石河子大学医学院第一附属医院科研项目\n\n\n\n\n立项来源\n医院2021年博士基金项目\n\n\n项目名称\n影响膀胱癌恶性生物学进展的关键基因及机制研究\n\n\n项目编号\nBS202110\n\n\n项目经费\n10万元\n\n\n项目主持人\n欧阳松\n\n\n起止日期\n2022年1月-2023年12月\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n项目来源\n石河子大学医学院立项项目\n\n\n\n\n立项来源\n石河子大学医学院2020年来华留学生医学本科（英语授课）教学改革立项项目\n\n\n项目名称\n互联网时代医学留学生泌尿外科本科教学新模式探讨\n\n\n项目编号\nYXLXSJG202013\n\n\n项目经费\n5000元\n\n\n项目主持人\n欧阳松\n\n\n起止日期\n2021年-2022年\n\n\n\n\n\n\n\n\n\n\n\n\n\n项目来源\n石河子大学医学院立项项目\n\n\n\n\n立项来源\n石河子大学医学院2020年来华留学生医学本科（英语授课）试题库立项项目\n\n\n项目名称\n留学生外科学II试题库\n\n\n项目编号\nYXLXSST202006\n\n\n项目经费\n5000元\n\n\n项目主持人\n欧阳松\n\n\n起止日期\n2021年-2022年"
+  },
+  {
+    "objectID": "achievements/project.html#参与课题",
+    "href": "achievements/project.html#参与课题",
+    "title": "科研课题",
+    "section": "2 参与课题",
+    "text": "2 参与课题\n\n2.1 2020年\n\n2.1.1 国家自然地区科学基金项目(81960147)\n\n\n\n项目名称\nCx43与ICC细胞交互作用在DCP膀胱发生中的作用及其机制研究\n\n\n\n\n项目负责人\n王勤章\n\n\n依托单位\n石河子大学\n\n\n研究期限\n2020-01至2023-12\n\n\n资助金额\n32.00万元\n\n\n批准号\n81960147\n\n\n项目类别\n地区科学基金项目\n\n\n学科分类\n医学科学部(H) -> 泌尿系统(H05) -> 膀胱疾病(H0514)\n\n\n\n\n\n\n2.2 2019年\n\n2.2.1 石河子大学成果转化与技术推广计划项目(CGZH201706)\n\n\n\n项目来源\n石河子大学成果转化与技术推广计划项目\n\n\n\n\n项目名称\n微创保肾在泌尿外科中的应用\n\n\n项目编号\nCGZH201706\n\n\n项目经费\n20万\n\n\n项目主持人\n王勤章\n\n\n\n\n\n\n2.3 2016年\n\n2.3.1 国家自然地区科学基金项目(81560129)\n\n\n\n\n\n\n\n项目名称\n前列腺ICC介导交感神经信号调控平滑肌张力的作用及机制\n\n\n\n\n项目负责人\n王江平\n\n\n依托单位\n石河子大学\n\n\n研究期限\n2016-01至2019-12\n\n\n资助金额\n37.00万元\n\n\n批准号\n81560129\n\n\n项目类别\n地区科学基金项目\n\n\n学科分类\n医学科学部(H) -> 泌尿系统(H05) -> 前列腺疾病(H0513)\n\n\n中文主题词\n前列腺；Cajal间质细胞；交感神经；平滑肌\n\n\n英文主题词\nprostate;Interstitial cells of Cajal;sympathetic nerve;smooth muscle\n\n\n排名\n3"
+  },
+  {
+    "objectID": "achievements/award.html",
+    "href": "achievements/award.html",
+    "title": "科技奖励",
+    "section": "",
+    "text": "目录\n内容\n\n\n\n\n获奖时间\n2019年12月\n\n\n奖励名称\nT1b期肾肿瘤实施腹腔镜下肾部分切除术的临床应用研究\n\n\n类型\n新疆生产建设兵团科学技术进步奖\n\n\n奖励级别\n省部级\n\n\n等级\n二等奖\n\n\n排名\n3\n\n\n颁发机构\n新疆生产建设兵团科技局\n\n\n公示网址\n新疆生产建设兵团--文件政策--关于2019年度兵团科学技术奖励的决定 (xjbt.gov.cn)\n\n\n\n8. T1b期肾肿瘤实施腹腔镜下肾部分切除术的临床应用研究\n主要完成单位：石河子大学医学院第一附属医院\n主要完成人：王勤章、钱彪、欧阳松、李强、倪钊、李晨、李应龙、王新敏、高存祥、董洪超"
+  },
+  {
+    "objectID": "achievements/award.html#年文章",
+    "href": "achievements/award.html#年文章",
+    "title": "发表文章",
+    "section": "2 2022年文章",
+    "text": "2 2022年文章\nWei, X., Qin, Y., Ouyang, S., Qian, J., Tu, S., Yao, J.”Challenging surgical treatment of giant retroperitoneal liposarcoma: A case report”. Oncology Letters 24, no. 3 (2022): 314. https://doi.org/10.3892/ol.2022.13434"
+  },
+  {
+    "objectID": "achievements/award.html#年文章-1",
+    "href": "achievements/award.html#年文章-1",
+    "title": "发表文章",
+    "section": "3 2020年文章",
+    "text": "3 2020年文章\n\nSong O Y , Liu J H , Wang Q Z . Upregulation of RAC3 in bladder cancer predicts adverse clinical outcome and increased tumor immune response[J]. International Journal of Clinical and Experimental Pathology, 2020, 13(12):2937-2949.\nSong O Y , Liu J H , Wang Q Z . Expression patterns and a prognostic model of m 6 A-associated regulators in prostate adenocarcinoma[J]. Biomarkers in Medicine, 2020, 14(18):1717-1731.\nOuyang S , Liu J H , Ni Z , et al. Downregulation of ST3GAL5 is associated with muscle invasion, high grade and a poor prognosis in patients with bladder cancer[J]. Oncology letters, 2020, 20(1).\n欧阳松,倪钊,李强,王勤章,丁国富,刘继红.高表达MMP14与肾透明细胞癌预后及影响机制研究[J].农垦医学,2020,42(06):519-522.\n欧阳松,刘继红,倪钊,李强,丁国富,王勤章.ST3GAL5在膀胱尿路上皮癌中表达水平、预后分析及作用机制的研究[J].现代泌尿生殖肿瘤杂志,2020,12(04):206-212."
+  },
+  {
+    "objectID": "achievements/award.html#年-2019年文章",
+    "href": "achievements/award.html#年-2019年文章",
+    "title": "发表文章",
+    "section": "4 2013年-2019年文章",
+    "text": "4 2013年-2019年文章\n\n4.1 论文论著：\n\nZhao Ni, Hui Zhuo, Qing Yang, Song Ouyang, Wei Lin. Expressions and clinical significance of PSA, ALP and associated indicators in serum of prostate cancer patients with osseous metastasis[J]. Acta Medica Mediterranea, 2018,34(6):1815-1820. \n王新敏,刘志立,李强,李晨,欧阳松,李应龙,倪钊,钱彪,王勤章.三孔法腹腔镜经腹膜外前列腺癌根治术临床疗效观察(附27例报告)[J].现代泌尿生殖肿瘤杂志,2018,10(04):225-227.\n倪钊,王勤章,李应龙,李强,钱彪,王新敏,欧阳松,李晨,董洪超,高存祥,刘志立.LRIG3基因过表达对膀胱癌耐药细胞株顺铂敏感性的作用及机制[J].中国老年学杂志,2018,38(02):268-271.\n王燕,欧阳松,倪钊,钱彪,王勤章.新疆石河子地区550例泌尿系结石情况分析[J].国际泌尿系统杂志,2017,37(06):829-831.\n欧阳松,李应龙,倪钊,王勤章.经尿道精囊镜技术在泌尿男科的应用[J].农垦医学,2017,39(04):321-324.\n欧阳松,倪钊,钱彪,王勤章,丁国富,赵永平.显微镜腹股沟下精索静脉结扎术疗效分析[J].现代泌尿外科杂志,2017,22(03):192-195.\n欧阳松,马路平,钱彪.互联网时代留学生临床教学模式探讨[J].农垦医学,2017,39(01):87-89.\n欧阳松,李强,倪钊,李应龙,王新敏,钱彪,王勤章,丁国富.解剖性腹腔镜下根治性全膀胱切除术的应用[J].现代泌尿生殖肿瘤杂志,2016,8(06):358-359.\n李强,欧阳松,钱彪,丁国富,倪钊,王勤章.淋巴管新生与肾透明细胞癌预后的相关性分析[J].中国临床药理学杂志,2015,31(16):1635-1637.\n欧阳松,倪钊,王新敏,钱彪,王文晓,王江平,王勤章,丁国富.改良R.E.N.A.L.评分在后腹腔镜肾部分切除术中的应用[J].现代泌尿生殖肿瘤杂志,2015,7(02):68-71.\n李强,王勤章,丁国富,欧阳松.后腹腔镜肾盂切开联合膀胱软镜碎石取石术8例报告[J].现代泌尿外科杂志,2014,19(11):716-718.\n王新敏,章乐,丁国富,王勤章,欧阳松,李应龙,倪钊,钱彪,王文晓.PBL教学方法在泌尿外科教学中的应用[J].科技信息,2014(15):376+381.\n赵亚伟,王砺,李前跃,马旺,王勤章,欧阳松.121例肾细胞癌患者临床及预后分析[J].山东医药,2013,53(42):55-56.\n欧阳松,王勤章,丁国富,李强,倪钊,李应龙,王新敏,王文晓.单孔后腹腔镜与标准后腹腔镜输尿管切开取石术的对比研究[J].中华腔镜泌尿外科杂志(电子版),2013,7(05):24-27.\n欧阳松,王勤章,丁国富,李强,倪钊,李应龙,王新敏,王文晓.单孔后腹腔镜输尿管切开取石术12例报告[J].现代泌尿外科杂志,2013,18(04):409-410.\n欧阳松. 单孔后腹腔镜与标准后腹腔镜输尿管切开取石术的对比研究[D].石河子大学,2013.\n欧阳松,王勤章,丁国富.不同单孔腹腔镜手术通道套管在泌尿外科中的应用[J].医学综述,2013,19(05):887-889."
+  },
+  {
+    "objectID": "achievements/award.html#年-1",
+    "href": "achievements/award.html#年-1",
+    "title": "科技奖励",
+    "section": "2 2021年",
+    "text": "2 2021年\n\n2.1 兵团科技进步二等奖\n\n\n\n目录\n内容\n\n\n\n\n获奖时间\n2021年12月\n\n\n奖励名称\n上尿路结石微创诊疗关键技术应用研究\n\n\n类型\n新疆生产建设兵团科学技术进步奖\n\n\n奖励级别\n省部级\n\n\n等级\n二等奖\n\n\n排名\n10\n\n\n颁发机构\n新疆生产建设兵团科技局\n\n\n公示网址\n新疆生产建设兵团--文件政策--关于2021年度兵团科学技术奖励的决定 (xjbt.gov.cn)\n\n\n\n6.上尿路结石微创诊疗关键技术应用研究\n主要完成单位：石河子大学医学院第一附属医院\n主要完成人：王勤章、李强、曾凯、钱彪、刘志立、马路平、倪钊、王新敏、李晨、欧阳松"
+  },
+  {
+    "objectID": "slide/Quarto slides demonstration.html#choosing-the-data",
+    "href": "slide/Quarto slides demonstration.html#choosing-the-data",
+    "title": "Quarto slides demonstration",
+    "section": "Choosing the data",
+    "text": "Choosing the data\nAs everyone always says,\n\npenguins are very cute! …so let’s work with penguin data today.\n\n\n\n\n\n\n\nNote\n\n\nNote that the palmerpenguins dataset is meant as an alternative to the commonly used iris data."
+  },
+  {
+    "objectID": "slide/Quarto slides demonstration.html#loading-packages-reading-data",
+    "href": "slide/Quarto slides demonstration.html#loading-packages-reading-data",
+    "title": "Quarto slides demonstration",
+    "section": "Loading packages & reading data",
+    "text": "Loading packages & reading data\nFirst, we need to:\n\n\nload packages\n\nread in data\n\ncheck if that data is in the right format\n\n\n\n\n\n\n\n\n\n\nUsing the data without downloading it\n\n\nThis same dataset is also available in the package palmerpenguins.\n\n\n\n\nBy “right format”, we mean that the data is tidy, and ready to be summarised and graphed."
+  },
+  {
+    "objectID": "slide/Quarto slides demonstration.html#some-descriptive-statistics",
+    "href": "slide/Quarto slides demonstration.html#some-descriptive-statistics",
+    "title": "Quarto slides demonstration",
+    "section": "Some descriptive statistics",
+    "text": "Some descriptive statistics\n\n\n\n\n\n\nFigure 1: Penguin species drawing by Allison Horst\n\n\n\n\n\n\n\nFigure 2: Explaining bill dimensions\n\n\n\n\n\n\n\nThe average bill length is 43.9927928 mm and the average bill depth is 17.1648649 mm.\n\nThe data was collected between 2007 and 2009."
+  },
+  {
+    "objectID": "slide/Quarto slides demonstration.html#graphs",
+    "href": "slide/Quarto slides demonstration.html#graphs",
+    "title": "Quarto slides demonstration",
+    "section": "Graphs",
+    "text": "Graphs\nSome ideas for graphs:\n\npenguin weight by flipper length\n\nfor the entire data\n\nor separately for each species\n\nand additionally by sex\n\n\nflipper and bill length\n\nbill length and depth"
+  },
+  {
+    "objectID": "slide/Quarto slides demonstration.html#weight-and-flipper-length",
+    "href": "slide/Quarto slides demonstration.html#weight-and-flipper-length",
+    "title": "Quarto slides demonstration",
+    "section": "Weight and flipper length",
+    "text": "Weight and flipper length\nThe following graphs are slightly simplified versions from the vignette for the {palmerpenguins} package."
+  },
+  {
+    "objectID": "posts/Quarto/Quarto demonstration.html",
+    "href": "posts/Quarto/Quarto demonstration.html",
+    "title": "Quarto demonstration",
+    "section": "",
+    "text": "As everyone always says,\n\npenguins are very cute! …so let’s work with penguin data today.\n\n\n\n\n\n\n\nNote\n\n\n\nNote that the palmerpenguins dataset is meant as an alternative to the commonly used iris data.\n\n\nMore information on this data set is available on Allison Horst’s Github page.\n\n\n\n\n\n\nExpand to learn more about where the data was collected\n\n\n\n\n\nData were collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network.\n\n\n\nThis data can also be used via the {palmerpenguins} package (Horst et al., 2020) and was originally introduced in Gorman et al. (2014)\n\n\n\nFirst, we need to:\n1. load packages\n2. read in data\n3. check if that data is in the right format\nBy “right format”, we mean that the data is tidy, and ready to be summarised and graphed.\n\n\n\n\n\n\nUsing the data without downloading it\n\n\n\nThis same dataset is also available in the package palmerpenguins.\n\n\n\n\nCode\nlibrary(tidyverse)\npenguins <- read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-07-28/penguins.csv') %>% \n  drop_na()\nhead(penguins)\n\n\n# A tibble: 6 × 8\n  species island    bill_length_mm bill_depth_mm flipper_l…¹ body_…² sex    year\n  <chr>   <chr>              <dbl>         <dbl>       <dbl>   <dbl> <chr> <dbl>\n1 Adelie  Torgersen           39.1          18.7         181    3750 male   2007\n2 Adelie  Torgersen           39.5          17.4         186    3800 fema…  2007\n3 Adelie  Torgersen           40.3          18           195    3250 fema…  2007\n4 Adelie  Torgersen           36.7          19.3         193    3450 fema…  2007\n5 Adelie  Torgersen           39.3          20.6         190    3650 male   2007\n6 Adelie  Torgersen           38.9          17.8         181    3625 fema…  2007\n# … with abbreviated variable names ¹​flipper_length_mm, ²​body_mass_g\n\n\nWe’ve removed missing values here, which means that the data has 333 rows now1.\n\n\n\n\n\n\n\n\n\nFigure 1: Penguin species drawing by Allison Horst\n\n\n\n\n\n\n\nFigure 2: Explaining bill dimensions\n\n\n\n\n\n\n\nThe average bill length is 43.9927928 mm and the average bill depth is 17.1648649 mm.\n\nThe data was collected between 2007 and 2009.\n\n\n\n\nHere’s code to see data in a specific column:\n\nbase Rtidyverse\n\n\npenguins$bill_length_mm\n\n\npenguins %>% select(bill_length_mm)"
+  },
+  {
+    "objectID": "posts/Quarto/Quarto demonstration.html#weight-and-flipper-length",
+    "href": "posts/Quarto/Quarto demonstration.html#weight-and-flipper-length",
+    "title": "Quarto demonstration",
+    "section": "2.1 Weight and flipper length",
+    "text": "2.1 Weight and flipper length\nThe following graphs are slightly simplified versions from the vignette for the {palmerpenguins} package.\n\n2.1.1 Entire data\n\n\nCode\nmass_flipper <- ggplot(data = penguins,\n                       aes(x = flipper_length_mm,\n                           y = body_mass_g)) +\n  geom_point(size = 3,\n             alpha = 0.8) +\n  theme_minimal() +\n  labs(title = \"Penguin size, Palmer Station LTER\",\n       subtitle = \"Flipper length and body mass for Adelie, Chinstrap and Gentoo Penguins\",\n       x = \"Flipper length (mm)\",\n       y = \"Body mass (g)\") +\n  theme_minimal()\nmass_flipper\n\n\n\n\n\nFigure 3: Penguin flipper length and body mass\n\n\n\n\nRefer to Figure 2 for an explanation of the measurements.\n\n\n2.1.2 Separated by species\n\n\nCode\nmass_flipper_species <- ggplot(data = penguins,\n                       aes(x = flipper_length_mm,\n                           y = body_mass_g)) +\n  geom_point(aes(color = species,\n                 shape = species),\n             size = 3,\n             alpha = 0.8) +\n  theme_minimal() +\n  scale_color_manual(values = c(\"darkorange\",\"purple\",\"cyan4\")) +\n  labs(title = \"Penguin size, Palmer Station LTER\",\n       subtitle = \"Flipper length and body mass for Adelie, Chinstrap and Gentoo Penguins\",\n       x = \"Flipper length (mm)\",\n       y = \"Body mass (g)\",\n       color = \"Penguin species\",\n       shape = \"Penguin species\") +\n  theme_minimal()\nmass_flipper_species\n\n\n\n\n\nFigure 4: Penguin flipper length and body mass, separately by species\n\n\n\n\nFigure 3 does not separate the data by species, while Figure 4 does.\n\n\n2.1.3 Separated by species and sex\n\n\nCode\nmass_flipper_species +\n  facet_wrap(~sex)\n\n\n\n\n\nFigure 5: Penguin flipper length and body mass, separately by species and sex"
+  }
+]

@@ -1,0 +1,16 @@
+---
+title: "Dr. Song Ou-Yang"
+subtitle: "一个爱好R的主治医师，讲师，医学博士"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: table
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  feed: true
+page-layout: full
+title-block-banner: true
+---
+
+基于Quarto构建的个人博客，用于纪录R语言在医学中的应用。

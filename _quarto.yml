@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "Song Ou-Yang"
+  site-url: https:/swcyo.rbind.io/
+  page-footer: "Copyright 2022, Song Ou-Yang" 
+  navbar:
+    search: true
+    right:
+      - text: "首页"
+        file: index.qmd
+      - sidebar:achievements
+      - sidebar:slide
+      - software.qmd
+      - link.qmd
+      - about.qmd
+      - icon: github
+        href: https://github.com/swcyo
+      - icon: google
+        href: https://scholar.google.com/citations?hl=zh-CN&pli=1&user=eTN286IAAAAJ
+ 
+  sidebar:
+   - id: achievements
+     title: "学术成果"
+     collapse-level: 2
+     style: docked
+     contents: achievements
+     
+   - id: slide
+     title: "幻灯片"
+     contents: slide
+     
+format:
+  html:
+    theme: Yeti
+    css: styles.css
+
+editor: visual
+

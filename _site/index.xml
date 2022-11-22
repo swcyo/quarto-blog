@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Song Ou-Yang</title>
+<link>https:/swcyo.rbind.io/index.html</link>
+<atom:link href="https:/swcyo.rbind.io/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.2.269</generator>
+<lastBuildDate>Tue, 22 Nov 2022 16:00:00 GMT</lastBuildDate>
+<item>
+  <title>Post With Code</title>
+  <dc:creator>Harlow Malloc</dc:creator>
+  <link>https:/swcyo.rbind.io/posts/post-with-code/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This is a post with executable code.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="dv" style="color: #AD0000;">1</span> <span class="sc" style="color: #5E5E5E;">+</span> <span class="dv" style="color: #AD0000;">1</span></span></code></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 2</code></pre>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>code</category>
+  <category>analysis</category>
+  <guid>https:/swcyo.rbind.io/posts/post-with-code/index.html</guid>
+  <pubDate>Tue, 22 Nov 2022 16:00:00 GMT</pubDate>
+  <media:content url="https:/swcyo.rbind.io/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Quarto demonstration</title>
+  <dc:creator>Julia Müller</dc:creator>
+  <link>https:/swcyo.rbind.io/posts/Quarto/Quarto demonstration.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="preparation" class="level1 page-columns page-full" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> Preparation</h1>
+<section id="choosing-the-data" class="level2" data-number="1.1">
+<h2 data-number="1.1" class="anchored" data-anchor-id="choosing-the-data"><span class="header-section-number">1.1</span> Choosing the data</h2>
+<p>As everyone always says,</p>
+<blockquote class="blockquote">
+<p>penguins are very cute! …so let’s work with penguin data today.</p>
+</blockquote>
+<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Note that the palmerpenguins dataset is meant as an alternative to the commonly used iris data.</p>
+</div>
+</div>
+<p>More information on this data set is available on <a href="https://allisonhorst.github.io/palmerpenguins/">Allison Horst’s Github page.</a></p>
+<div class="callout-caution callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Expand to learn more about where the data was collected
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Data were collected and made available by Dr.&nbsp;Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network.</p>
+</div>
+</div>
+</div>
+<p>This data can also be used via the {palmerpenguins} package <span class="citation" data-cites="Horst.2020">(Horst et al., 2020)</span> and was originally introduced in <span class="citation" data-cites="Gorman.2014">Gorman et al. (2014)</span></p>
+</section>
+<section id="loading-packages-reading-data" class="level2 page-columns page-full" data-number="1.2">
+<h2 data-number="1.2" class="anchored" data-anchor-id="loading-packages-reading-data"><span class="header-section-number">1.2</span> Loading packages &amp; reading data</h2>
+<p>First, we need to:<br>
+1. load <strong>packages</strong><br>
+2. read in <strong>data</strong><br>
+3. check if that data is <em>in the right format</em></p>
+<div class="page-columns page-full"><p></p><div class="no-row-height column-margin column-container"><span class="">By “right format”, we mean that the data is tidy, and ready to be summarised and graphed.</span></div></div>
+<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Using the data without downloading it
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This same dataset is also available in the package palmerpenguins.</p>
+</div>
+</div>
+<div class="cell">
+<details>
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="fu" style="color: #4758AB;">library</span>(tidyverse)</span>
+<span id="cb1-2">penguins <span class="ot" style="color: #003B4F;">&lt;-</span> <span class="fu" style="color: #4758AB;">read_csv</span>(<span class="st" style="color: #20794D;">'https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-07-28/penguins.csv'</span>) <span class="sc" style="color: #5E5E5E;">%&gt;%</span> </span>
+<span id="cb1-3">  <span class="fu" style="color: #4758AB;">drop_na</span>()</span>
+<span id="cb1-4"><span class="fu" style="color: #4758AB;">head</span>(penguins)</span></code></pre></div>
+</details>
+<div class="cell-output cell-output-stdout">
+<pre><code># A tibble: 6 × 8
+  species island    bill_length_mm bill_depth_mm flipper_l…¹ body_…² sex    year
+  &lt;chr&gt;   &lt;chr&gt;              &lt;dbl&gt;         &lt;dbl&gt;       &lt;dbl&gt;   &lt;dbl&gt; &lt;chr&gt; &lt;dbl&gt;
+1 Adelie  Torgersen           39.1          18.7         181    3750 male   2007
+2 Adelie  Torgersen           39.5          17.4         186    3800 fema…  2007
+3 Adelie  Torgersen           40.3          18           195    3250 fema…  2007
+4 Adelie  Torgersen           36.7          19.3         193    3450 fema…  2007
+5 Adelie  Torgersen           39.3          20.6         190    3650 male   2007
+6 Adelie  Torgersen           38.9          17.8         181    3625 fema…  2007
+# … with abbreviated variable names ¹​flipper_length_mm, ²​body_mass_g</code></pre>
+</div>
+</div>
+<p>We’ve removed missing values here, which means that the data has 333 rows now<sup>1</sup>.</p>
+</section>
+<section id="some-descriptive-statistics" class="level2" data-number="1.3">
+<h2 data-number="1.3" class="anchored" data-anchor-id="some-descriptive-statistics"><span class="header-section-number">1.3</span> Some descriptive statistics</h2>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div id="fig-penguins" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https:/swcyo.rbind.io/posts/Quarto/penguin_species.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;1: Penguin species drawing by Allison Horst</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div id="fig-bill" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https:/swcyo.rbind.io/posts/Quarto/culmen_depth.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;2: Explaining bill dimensions</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p>The average bill length is 43.9927928 mm and the average bill depth is 17.1648649 mm.</p>
+</div><div class="column" style="width:50%;">
+<p>The data was collected between 2007 and 2009.</p>
+</div>
+</div>
+<section id="comparing-base-r-and-tidyverse-syntax" class="level3" data-number="1.3.1">
+<h3 data-number="1.3.1" class="anchored" data-anchor-id="comparing-base-r-and-tidyverse-syntax"><span class="header-section-number">1.3.1</span> Comparing base R and tidyverse syntax</h3>
+<p>Here’s code to see data in a specific column:</p>
+<div class="panel-tabset">
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">base R</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" aria-controls="tabset-1-2" aria-selected="false">tidyverse</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" aria-labelledby="tabset-1-1-tab">
+<div class="sourceCode" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1">penguins<span class="sc" style="color: #5E5E5E;">$</span>bill_length_mm</span></code></pre></div>
+</div>
+<div id="tabset-1-2" class="tab-pane" aria-labelledby="tabset-1-2-tab">
+<div class="sourceCode" id="cb4" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1">penguins <span class="sc" style="color: #5E5E5E;">%&gt;%</span> <span class="fu" style="color: #4758AB;">select</span>(bill_length_mm)</span></code></pre></div>
+</div>
+</div>
+</div>
+</section>
+</section>
+</section>
+<section id="graphs" class="level1 page-columns page-full" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> Graphs</h1>
+<p>Some ideas for graphs:</p>
+<ul>
+<li>penguin weight by flipper length
+<ul>
+<li>for the entire data<br>
+</li>
+<li>or separately for each species<br>
+</li>
+<li>and additionally by sex<br>
+</li>
+</ul></li>
+<li>flipper and bill length<br>
+</li>
+<li>bill length and depth</li>
+</ul>
+<section id="weight-and-flipper-length" class="level2 page-columns page-full" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="weight-and-flipper-length"><span class="header-section-number">2.1</span> Weight and flipper length</h2>
+<p>The following graphs are slightly simplified versions from the <a href="https://allisonhorst.github.io/palmerpenguins/articles/examples.html">vignette for the {palmerpenguins} package.</a></p>
+<section id="entire-data" class="level3" data-number="2.1.1">
+<h3 data-number="2.1.1" class="anchored" data-anchor-id="entire-data"><span class="header-section-number">2.1.1</span> Entire data</h3>
+<div class="cell">
+<details>
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1">mass_flipper <span class="ot" style="color: #003B4F;">&lt;-</span> <span class="fu" style="color: #4758AB;">ggplot</span>(<span class="at" style="color: #657422;">data =</span> penguins,</span>
+<span id="cb5-2">                       <span class="fu" style="color: #4758AB;">aes</span>(<span class="at" style="color: #657422;">x =</span> flipper_length_mm,</span>
+<span id="cb5-3">                           <span class="at" style="color: #657422;">y =</span> body_mass_g)) <span class="sc" style="color: #5E5E5E;">+</span></span>
+<span id="cb5-4">  <span class="fu" style="color: #4758AB;">geom_point</span>(<span class="at" style="color: #657422;">size =</span> <span class="dv" style="color: #AD0000;">3</span>,</span>
+<span id="cb5-5">             <span class="at" style="color: #657422;">alpha =</span> <span class="fl" style="color: #AD0000;">0.8</span>) <span class="sc" style="color: #5E5E5E;">+</span></span>
+<span id="cb5-6">  <span class="fu" style="color: #4758AB;">theme_minimal</span>() <span class="sc" style="color: #5E5E5E;">+</span></span>
+<span id="cb5-7">  <span class="fu" style="color: #4758AB;">labs</span>(<span class="at" style="color: #657422;">title =</span> <span class="st" style="color: #20794D;">"Penguin size, Palmer Station LTER"</span>,</span>
+<span id="cb5-8">       <span class="at" style="color: #657422;">subtitle =</span> <span class="st" style="color: #20794D;">"Flipper length and body mass for Adelie, Chinstrap and Gentoo Penguins"</span>,</span>
+<span id="cb5-9">       <span class="at" style="color: #657422;">x =</span> <span class="st" style="color: #20794D;">"Flipper length (mm)"</span>,</span>
+<span id="cb5-10">       <span class="at" style="color: #657422;">y =</span> <span class="st" style="color: #20794D;">"Body mass (g)"</span>) <span class="sc" style="color: #5E5E5E;">+</span></span>
+<span id="cb5-11">  <span class="fu" style="color: #4758AB;">theme_minimal</span>()</span>
+<span id="cb5-12">mass_flipper</span></code></pre></div>
+</details>
+<div class="cell-output-display">
+<div id="fig-entire" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https:/swcyo.rbind.io/posts/Quarto/Quarto-demonstration_files/figure-html/fig-entire-1.png" class="img-fluid figure-img" width="672"></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;3: Penguin flipper length and body mass</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+<p>Refer to Figure&nbsp;2 for an explanation of the measurements.</p>
+</section>
+<section id="separated-by-species" class="level3" data-number="2.1.2">
+<h3 data-number="2.1.2" class="anchored" data-anchor-id="separated-by-species"><span class="header-section-number">2.1.2</span> Separated by species</h3>
+<div class="cell">
+<details>
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb6" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1">mass_flipper_species <span class="ot" style="color: #003B4F;">&lt;-</span> <span class="fu" style="color: #4758AB;">ggplot</span>(<span class="at" style="color: #657422;">data =</span> penguins,</span>
+<span id="cb6-2">                       <span class="fu" style="color: #4758AB;">aes</span>(<span class="at" style="color: #657422;">x =</span> flipper_length_mm,</span>
+<span id="cb6-3">                           <span class="at" style="color: #657422;">y =</span> body_mass_g)) <span class="sc" style="color: #5E5E5E;">+</span></span>
+<span id="cb6-4">  <span class="fu" style="color: #4758AB;">geom_point</span>(<span class="fu" style="color: #4758AB;">aes</span>(<span class="at" style="color: #657422;">color =</span> species,</span>
+<span id="cb6-5">                 <span class="at" style="color: #657422;">shape =</span> species),</span>
+<span id="cb6-6">             <span class="at" style="color: #657422;">size =</span> <span class="dv" style="color: #AD0000;">3</span>,</span>
+<span id="cb6-7">             <span class="at" style="color: #657422;">alpha =</span> <span class="fl" style="color: #AD0000;">0.8</span>) <span class="sc" style="color: #5E5E5E;">+</span></span>
+<span id="cb6-8">  <span class="fu" style="color: #4758AB;">theme_minimal</span>() <span class="sc" style="color: #5E5E5E;">+</span></span>
+<span id="cb6-9">  <span class="fu" style="color: #4758AB;">scale_color_manual</span>(<span class="at" style="color: #657422;">values =</span> <span class="fu" style="color: #4758AB;">c</span>(<span class="st" style="color: #20794D;">"darkorange"</span>,<span class="st" style="color: #20794D;">"purple"</span>,<span class="st" style="color: #20794D;">"cyan4"</span>)) <span class="sc" style="color: #5E5E5E;">+</span></span>
+<span id="cb6-10">  <span class="fu" style="color: #4758AB;">labs</span>(<span class="at" style="color: #657422;">title =</span> <span class="st" style="color: #20794D;">"Penguin size, Palmer Station LTER"</span>,</span>
+<span id="cb6-11">       <span class="at" style="color: #657422;">subtitle =</span> <span class="st" style="color: #20794D;">"Flipper length and body mass for Adelie, Chinstrap and Gentoo Penguins"</span>,</span>
+<span id="cb6-12">       <span class="at" style="color: #657422;">x =</span> <span class="st" style="color: #20794D;">"Flipper length (mm)"</span>,</span>
+<span id="cb6-13">       <span class="at" style="color: #657422;">y =</span> <span class="st" style="color: #20794D;">"Body mass (g)"</span>,</span>
+<span id="cb6-14">       <span class="at" style="color: #657422;">color =</span> <span class="st" style="color: #20794D;">"Penguin species"</span>,</span>
+<span id="cb6-15">       <span class="at" style="color: #657422;">shape =</span> <span class="st" style="color: #20794D;">"Penguin species"</span>) <span class="sc" style="color: #5E5E5E;">+</span></span>
+<span id="cb6-16">  <span class="fu" style="color: #4758AB;">theme_minimal</span>()</span>
+<span id="cb6-17">mass_flipper_species</span></code></pre></div>
+</details>
+<div class="cell-output-display">
+<div id="fig-species" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https:/swcyo.rbind.io/posts/Quarto/Quarto-demonstration_files/figure-html/fig-species-1.png" class="img-fluid figure-img" width="672"></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;4: Penguin flipper length and body mass, separately by species</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+<p>Figure&nbsp;3 does not separate the data by species, while Figure&nbsp;4 does.</p>
+</section>
+<section id="separated-by-species-and-sex" class="level3 page-columns page-full" data-number="2.1.3">
+<h3 data-number="2.1.3" class="anchored" data-anchor-id="separated-by-species-and-sex"><span class="header-section-number">2.1.3</span> Separated by species and sex</h3>
+<div class="cell page-columns page-full">
+<details>
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb7" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1">mass_flipper_species <span class="sc" style="color: #5E5E5E;">+</span></span>
+<span id="cb7-2">  <span class="fu" style="color: #4758AB;">facet_wrap</span>(<span class="sc" style="color: #5E5E5E;">~</span>sex)</span></code></pre></div>
+</details>
+<div class="cell-output-display page-columns page-full">
+<div id="fig-sex" class="quarto-figure quarto-figure-center anchored page-columns page-full">
+<figure class="figure page-columns page-full">
+<p><img src="https:/swcyo.rbind.io/posts/Quarto/Quarto-demonstration_files/figure-html/fig-sex-1.png" class="img-fluid figure-img" width="672"></p>
+<p></p><figcaption class="figure-caption margin-caption">Figure&nbsp;5: Penguin flipper length and body mass, separately by species and sex</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+
+
+
+</section>
+</section>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-Gorman.2014" class="csl-entry">
+Gorman, K. B., Williams, T. D., &amp; Fraser, W. R. (2014). Ecological sexual dimorphism and environmental variability within a community of antarctic penguins (genus pygoscelis). <em>PloS One</em>, <em>9</em>(3), e90081. <a href="https://doi.org/10.1371/journal.pone.0090081">https://doi.org/10.1371/journal.pone.0090081</a>
+</div>
+<div id="ref-Horst.2020" class="csl-entry">
+Horst, A. M., Presmanes Hill, A., &amp; Gorman, K. B. (2020). <em>Palmerpenguins: Palmer archipelago (antarctica) penguin data. R package version 0.1.0.</em> Zenodo. <a href="https://doi.org/10.5281/zenodo.3960218">https://doi.org/10.5281/zenodo.3960218</a>
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Note that this removes any rows with missing values!↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <guid>https:/swcyo.rbind.io/posts/Quarto/Quarto demonstration.html</guid>
+  <pubDate>Tue, 22 Nov 2022 16:00:00 GMT</pubDate>
+  <media:content url="https:/swcyo.rbind.io/posts/Quarto/penguin_species.png" medium="image" type="image/png" height="86" width="144"/>
+</item>
+<item>
+  <title>Welcome To My Blog</title>
+  <dc:creator>Tristan O&#39;Malley</dc:creator>
+  <link>https:/swcyo.rbind.io/posts/welcome/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This is the first post in a Quarto blog. Welcome!</p>
+<p><img src="https:/swcyo.rbind.io/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https:/swcyo.rbind.io/posts/welcome/index.html</guid>
+  <pubDate>Sat, 19 Nov 2022 16:00:00 GMT</pubDate>
+  <media:content url="https:/swcyo.rbind.io/posts/welcome/thumbnail.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
