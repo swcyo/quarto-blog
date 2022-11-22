@@ -158,7 +158,7 @@
     "href": "index.html",
     "title": "Dr. Song Ou-Yang",
     "section": "",
-    "text": "基于Quarto构建的个人博客，用于纪录R语言在医学中的应用。\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nNov 23, 2022\n\n\nPost With Code\n\n\nHarlow Malloc\n\n\n\n\nNov 23, 2022\n\n\nQuarto demonstration\n\n\nJulia Müller\n\n\n\n\nNov 20, 2022\n\n\nWelcome To My Blog\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "基于Quarto构建的个人博客，用于纪录R语言在医学中的应用。\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nNov 23, 2022\n\n\nPost With Code\n\n\nHarlow Malloc\n\n\n\n\nNov 23, 2022\n\n\nQuarto demonstration\n\n\nJulia Müller\n\n\n\n\nNov 20, 2022\n\n\nWelcome To My Blog\n\n\nTristan O’Malley\n\n\n\n\nSep 24, 2021\n\n\nMac系统下如何使用Tinytex本地安装简易latex\n\n\n欧阳松\n\n\n\n\nSep 23, 2021\n\n\nTinytex如何本地安装简易latex\n\n\n欧阳松\n\n\n\n\nSep 12, 2021\n\n\n你为什么需要一个Orcid\n\n\n欧阳松\n\n\n\n\nSep 11, 2021\n\n\n你为什么需要一个教育邮箱\n\n\n欧阳松\n\n\n\n\nSep 9, 2021\n\n\n2021年石河子大学学位论文模板我的电子书\n\n\n欧阳松\n\n\n\n\nSep 7, 2021\n\n\n2021年石河子大学学位论文格式书写规范变化\n\n\n欧阳松\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -222,5 +222,173 @@
     "title": "常用软件",
     "section": "推荐书籍及代码",
     "text": "推荐书籍及代码\n\n\n\n\n\n\nTip\n\n\n\n\n仙桃学术示例书籍及代码 （链接: https://pan.baidu.com/s/1NfBnWveq-6tfsqG30ikIug?pwd=f4h3 提取码: f4h3）\nR语言医学教程配套代码和彩图.zip （链接: https://pan.baidu.com/s/1rIbPkA5C_qgcp5t2P4xgNA?pwd=bwkb 提取码: bwkb）"
+  },
+  {
+    "objectID": "posts/你为什么需要一个ORCID.html",
+    "href": "posts/你为什么需要一个ORCID.html",
+    "title": "你为什么需要一个Orcid",
+    "section": "",
+    "text": "https://orcid.org/0000-0001-7962-2811\n我们投稿的时候，有的杂志会要求你提供你的ORCID，并且现在许多杂志社可以直接使用ORCID的账号登录，不需要进行额外的注册流程。\n那么什么是ORCID的，它又有什么作用？\n简单来说，ORCID就是你的个人专属号码，好比是身份证号码一样。我们经常会遇到同名同姓这种情况，而且有时候一个科室也会出现同名同姓的人。为了较好的区别是哪个人，国内的一些杂志甚至会要求你在文章中写上自己的出生日前和籍贯，这样做基本可以区分文章到底是谁发的，然后我是真的遇到过同一个科室、同一个姓名、籍贯一样、而且出生年月都一样的人。。。\n那么这样就很尴尬，毕竟我们发文章的时候，不可能让别人把身份证号码附上吧，而且发SCI的时候，别人才不会管这些，所以我们就需要一个专属的号码来区分研究人员，这种情况下，ORCID就应运而生了。"
+  },
+  {
+    "objectID": "posts/你为什么需要一个ORCID.html#什么是orcid",
+    "href": "posts/你为什么需要一个ORCID.html#什么是orcid",
+    "title": "你为什么需要一个Orcid",
+    "section": "什么是ORCID？",
+    "text": "什么是ORCID？\nORCID是Open Researcher and Contributor ID（开放研究者和贡献者ID）的缩写，是一个全球性的非营利组织，由ORCID的成员组织收费维持，目前ORCID得到了专业的、知识丰富的工作人员的支持。\nORCID为研究人员提供了一个独特的标识符–ORCID iD–以及一个将他们的研究成果和活动与其ORCID iD联系起来的机制。这也是一个独特和持久的数字标识符，确保你的工作与你正确关联，无论你的名字是否与另一个人相似（或相同！），或如果你的名字改变。\n目前，ORCID已经被许多被出版商、资助者、机构和其他研究相关服务的系统整合。"
+  },
+  {
+    "objectID": "posts/你为什么需要一个ORCID.html#orcid的好处",
+    "href": "posts/你为什么需要一个ORCID.html#orcid的好处",
+    "title": "你为什么需要一个Orcid",
+    "section": "ORCID的好处？",
+    "text": "ORCID的好处？\n你的 ORCID iD 是您永远拥有和控制的免费、唯一、持久的标识符。 它使您与跨学科、跨界和跨时间的所有其他研究人员区分开来。 你可以连接你的 iD 与您的专业信息——从属关系、资助、出版物、同行评审等。 你可以用你的 iD 与其他系统共享您的信息，确保您的所有贡献得到认可，节省您的时间和麻烦，并降低出错的风险。\n\n为您注册 ORCID 意味着您拥有一个免费的、唯一的、持久的标识符，可以消除您和您的工作的歧义。\n使用您的身份证 让您和您在整个研究生涯中联系的机构和组织的生活更轻松。\n\n您将享受这些福利 ORCID ID：\n\n您将与其他所有研究人员，甚至与您同名的研究人员区分开来，\n您的研究成果和活动将正确归因于您，\n您的贡献和隶属关系将可靠且轻松地与您联系起来，\n您将节省填写表格的时间，（留出更多时间进行研究！），\n您将享受更高的可发现性和认可度，\n您将能够将您的记录与越来越多的机构、资助者和出版商联系起来，\n你的 ORCID 记录是你的，免费的，永远的。"
+  },
+  {
+    "objectID": "posts/你为什么需要一个ORCID.html#如何注册orcid",
+    "href": "posts/你为什么需要一个ORCID.html#如何注册orcid",
+    "title": "你为什么需要一个Orcid",
+    "section": "如何注册ORCID",
+    "text": "如何注册ORCID\nOCRID的官网地址是https://orcid.org/，然而对于英语水平欠佳的研究人员，还可以选择简体中文进行注册。\n填写完基本信息上便可以生成你的ORCID，过程中需要关联你的个人邮箱进行激活，并且可以关联多个邮箱，也就是说任何一个你的个人邮箱地址都可以直接登录。\n比如我的ORCID就是https://orcid.org/0000-0001-7962-2811\n你可以登录以后管ORCID的界面，可以添加工作单位、就业信息、教育信息、文章作品和课题资助等信息，而且如果一旦你的SCI被录用以后，过一段时间会自动添加作品到你的ORCID上，跟教育邮箱一样，这也是一种身份认同。"
+  },
+  {
+    "objectID": "posts/你为什么需要一个教育邮箱.html",
+    "href": "posts/你为什么需要一个教育邮箱.html",
+    "title": "你为什么需要一个教育邮箱",
+    "section": "",
+    "text": "有一天我准备投稿一个杂志，然后在投稿指南里却出现下面一句话：\n翻译过来就是说，本杂志不支持无描述性邮箱，然后列举了一大堆我们常用的邮箱，这就很尴尬了。\n我们在投稿SCI的时候，尤其是一些高分影响因子的杂志，基本都会要求你用机构邮箱注册，一般对高校而言，就是教育邮箱。\n我以前都只在国内投稿，那时候根本不知道教育邮箱这个概念，反正随便哪个邮箱都可以，基本上qq、126、163、hotmail、gamail、sina、sohu这些我都有注册邮箱，虽然最常用的是126邮箱，但是作为科研人员，这就很缺少一种身份认同感，那么什么是教育邮箱，教育邮箱又能干什么？"
+  },
+  {
+    "objectID": "posts/你为什么需要一个教育邮箱.html#什么是教育邮箱",
+    "href": "posts/你为什么需要一个教育邮箱.html#什么是教育邮箱",
+    "title": "你为什么需要一个教育邮箱",
+    "section": "什么是教育邮箱",
+    "text": "什么是教育邮箱\n目前国内正规大学教育高校的官方网址都是”xxx.edu.cn”，相应的都会有一个”mail.xx.edu.cn”的邮箱。比如石河子大学的邮箱网址就是”mail.shzu.edu.cn”，其中教师的邮箱是”xxx@shzu.edu.cn”（容量为2G），学生的邮箱则是”学号@stu.shzu.edu.cn”（容量10G），每个新生开学之初都会自动分配一个账号，不知道的学生可以去看一下。\n当然，机构邮箱也可等同与教育邮箱，有些非高校的科研机构可能也会有自己的机构邮箱，不一定是edu.cn结尾。比如我一个在中山大学肿瘤医院的同学，他们的邮箱就是”xxx@sysucc.org.cn”。这种机构邮箱也是可以的。"
+  },
+  {
+    "objectID": "posts/你为什么需要一个教育邮箱.html#如何申请教育邮箱",
+    "href": "posts/你为什么需要一个教育邮箱.html#如何申请教育邮箱",
+    "title": "你为什么需要一个教育邮箱",
+    "section": "如何申请教育邮箱",
+    "text": "如何申请教育邮箱\n目前教育邮箱是不支持社会人单独申请的，只能去相应机构申请，网上有一些所谓”白嫖”教育邮箱的办法，但基本都已经不能申请了，所以如果不是教学或科研单位的话，可能很难。比如，目前我们医院虽然也是大学附属机构，但是大学不直接给我们账号，然是需要自己单独去申请。我的邮箱ouyangsong@shzu.edu.cn就是找人申请的。\n如果你是高校学生（一般是研究生），基本学校都会自动分配一个教育邮箱，正常就学年限内都有效。有些学校可能还会一直保留，但超过年限后可能会提示更换密码或手机号，目前石河子大学的教育邮箱好像可以一直用，而华中科技大学的邮箱是毕业以后可以自动转为校友的教育邮箱。"
+  },
+  {
+    "objectID": "posts/你为什么需要一个教育邮箱.html#教育邮箱的好处",
+    "href": "posts/你为什么需要一个教育邮箱.html#教育邮箱的好处",
+    "title": "你为什么需要一个教育邮箱",
+    "section": "教育邮箱的好处",
+    "text": "教育邮箱的好处\n教育邮箱最大主要的好处当然是教育和科研福利。举一个最简单的列子，我们做生信肿瘤研究领域，有一个著名的数据库叫Oncomine，没有教育邮箱你就不能注册，不能注册你就不能用。。。\n有了教育邮箱你就可以申请Office365免费使用权限，可以免费扩容Onedrive至1024GB，同时一些专业工具，比如GitHub提供的GitHub Student Developer Pack，JetBrains Toolbox 就有专业开发工具学生免费授权计划等等。\n还有一些高的PT站点下载\n另外还有许多科研软件免费或者折扣，比如OriginPro这个软件，有了教育邮箱，你就可以免费使用半年。\n还有许多好处，等你发现。"
+  },
+  {
+    "objectID": "posts/2021年石河子大学学位论文格式书写规范变化.html",
+    "href": "posts/2021年石河子大学学位论文格式书写规范变化.html",
+    "title": "2021年石河子大学学位论文格式书写规范变化",
+    "section": "",
+    "text": "2021年9月1日石河子大学出台的新的石河子大学学位论文格式书写要求与写作规范,与以往的论文格式还是有很多变化的，加了很多细节。\n我总结了一下，大概有下面这些变化："
+  },
+  {
+    "objectID": "posts/2021年石河子大学学位论文格式书写规范变化.html#标题与字体变化",
+    "href": "posts/2021年石河子大学学位论文格式书写规范变化.html#标题与字体变化",
+    "title": "2021年石河子大学学位论文格式书写规范变化",
+    "section": "标题与字体变化",
+    "text": "标题与字体变化\n\n2017年：论文分三级标题（一级黑体三号、二级黑体四号、三级黑体小四号）\n\n\n\n\n\n2021年：论文为多级标题，编号与内容间键一个空格（一级黑体小三且段前后间距在30-36磅之间、二级黑体四号且段前后间距在12-15磅之间、三级黑体四号且段前后间距在12-15磅之间、四级黑体小四且段前后间距在9-12磅之间）\n\n主要有两点变化：\n\n级数的变化\n以前是三级标题，现在可以写多级标题了，但是只说到了第四级，没有说之后的级数字体要求，不过一般情况下也用不了那么多级别，论文要求正文字体是小四，后面的级别也不应该少于小四，所以我认为五级及以后的字体都可以设置为小四黑体\n段前段后的间距有了要求\n以前并没有对各级标题的间距有规定，所以默认还是采用正文的1.2倍行距，然而现在正文行距都变了（后面会说），所以需要逐级去调节间距，而且段前后间距，不等于行间距，尤其还有个多少磅-多少磅之间的模糊区间，不仅要手动写，而且还费劲。我看了一下那个30磅的距离，简直不要太宽。这么大的间距，对于章节比较多的论文，感觉就是硬凑页数，全文下来，感觉可以多十页的节奏。。。"
+  },
+  {
+    "objectID": "posts/2021年石河子大学学位论文格式书写规范变化.html#正文字体变化",
+    "href": "posts/2021年石河子大学学位论文格式书写规范变化.html#正文字体变化",
+    "title": "2021年石河子大学学位论文格式书写规范变化",
+    "section": "正文字体变化",
+    "text": "正文字体变化\n\n2017年：正文采用小四号宋体，行间距为1.2倍行距；\n\n\n\n\n\n2021年：正文中文字体为宋体，英文字体为Times New Roman，采用小四号字，段落行间距为固定值20磅，段落前后间距为0，首行缩进2字符。\n\n说明：以前是1.2倍行间距，现在是固定20磅，感觉有1.5倍行间距的感觉"
+  },
+  {
+    "objectID": "posts/2021年石河子大学学位论文格式书写规范变化.html#图表字体变化",
+    "href": "posts/2021年石河子大学学位论文格式书写规范变化.html#图表字体变化",
+    "title": "2021年石河子大学学位论文格式书写规范变化",
+    "section": "图表字体变化",
+    "text": "图表字体变化\n\n2017年：图、表标题采用五号黑体；表格中文字、图例说明采用五号宋体；表注采用小五号宋体；\n\n\n\n\n\n2021年：表格中文字、图例说明采用五号宋体；表注采用小五号宋体。\n\n说明：以前明确规定了图、表的标题字号是五号黑体，现在删除了这几个字，然而并没有具体说明标题是多少，只说了说明是五号宋体，表注是小五宋体\n存疑：\n\n图、表的标题是五号宋体吗？（华中科技大学的新版论文格式上有明确说五号宋体，不知可否借鉴参考）\n只说了表注是小五宋体，那么图注是否也是小五宋体？（我觉得应该图注也是）\n图、表对字号有了要求，却没有明确行间距的要求，因为默认是1倍行间距，这个我觉得可以依据论文的版面来稍微调节，因为有时候就因为多那么一点点的行间距，图表就跳到下一行了。。。"
+  },
+  {
+    "objectID": "posts/2021年石河子大学学位论文格式书写规范变化.html#页眉变化",
+    "href": "posts/2021年石河子大学学位论文格式书写规范变化.html#页眉变化",
+    "title": "2021年石河子大学学位论文格式书写规范变化",
+    "section": "页眉变化",
+    "text": "页眉变化\n\n2017年：页眉为学位论文名称，论文要双面打印，页码排在页脚居中位置。\n\n\n\n\n\n2021年：\n页眉：从正文开始到论文结尾，文字均采用小五号黑体，页眉右侧为”石河子大学博士学位论文”或 “石河子大学硕士学位论文”，左侧为相应的章标题或无编号章标题\n页脚：均采用小五号黑体，居中。从中文摘要开始，页脚从I开始顺序编页码，为大写罗马数字格式。正文第一页开始，用阿拉伯数字重新从1开始顺序编页码，至学位论文结尾。\n\n变化：\n\n页脚貌似没有变化，虽然好像没有写，至少2013年的时候就规定目录前是大写罗马数字，目录后是阿拉伯数字\n以前页眉要求从正文开始都是论文题目，现在要求页眉从正文开始要为”章节题目和石河子大学XX学位论文”\n\n  个人观点：我以前上硕士的时候就一直以为不同页面设置不同的页码就已经是个神奇的规定，一直不知道怎么实现，甚至想到了写两个word，然后分别打印好让老板装订。现在又要求每个章节的页眉不同，这是要折磨死人的设定。\n  还好，经过多年的学习，才知道Word上有个设定叫分节符，尽管它藏在一个你基本找不到的角落里。\n  不过这里仍然有一个疑问，页眉右侧为\"石河子大学博士学位论文\"或 \"石河子大学硕士学位论文\"，左侧为相应的章标题或无编号章标题。这句话没有右侧和左侧的距离是多少，我只能认为先居中对齐，然后从中间一直打空格，直到两边都到底。。。"
+  },
+  {
+    "objectID": "posts/2021年石河子大学学位论文格式书写规范变化.html#封面颜色变化",
+    "href": "posts/2021年石河子大学学位论文格式书写规范变化.html#封面颜色变化",
+    "title": "2021年石河子大学学位论文格式书写规范变化",
+    "section": "封面颜色变化",
+    "text": "封面颜色变化\n\n2017年：硕士学位论文封面颜色为浅黄色，博士学位论文封面颜色为湖水蓝色；专业学位硕士、博士学位论文的封面均为浅草绿色。\n\n\n\n\n\n2021年：前三个一样，专业学位博士学位论文的封面为浅灰色。\n\n  – 就目前而言，这个变化跟医学院没有什么关系。"
+  },
+  {
+    "objectID": "posts/2021年石河子大学学位论文格式书写规范变化.html#目录变化",
+    "href": "posts/2021年石河子大学学位论文格式书写规范变化.html#目录变化",
+    "title": "2021年石河子大学学位论文格式书写规范变化",
+    "section": "目录变化",
+    "text": "目录变化\n\n2017年：目录一般列至二级标题\n\n\n\n\n\n2021年：不编号章标题样式，目录应列至三级标题，各级标题采用逐级缩进形式，每级缩进2字符\n\n  说明：以前目录是二级标题，现在改三级标题，而且还规定里缩进2字符。\n  这个在Word的引用里都可以自己设置，基本都是默认设置，唯一要吐槽的就是按不编号章标题样式，也就是说目录要居中、黑体小三且段前后间距在30-36磅。（这个间距我看了，很粗旷）"
+  },
+  {
+    "objectID": "posts/2021年石河子大学学位论文格式书写规范变化.html#参考文献变化",
+    "href": "posts/2021年石河子大学学位论文格式书写规范变化.html#参考文献变化",
+    "title": "2021年石河子大学学位论文格式书写规范变化",
+    "section": "参考文献变化",
+    "text": "参考文献变化\n\n2017年：未明确样式\n\n\n\n\n\n2021年：\n\n“参考文献”四字采用不编号章标题样式。内容条目固定行距17磅，段前间距3磅，段后间距为0\n根据GB/T7714-2005的要求书写参考文献，可采用顺序编码制，也可采用著者-出版年制，但全文必须统一\n\n\n  说明：对参考文献的引用和格式有了明确的规定，虽然已经有了GB/T7714-2015，但是还是采用GB/T7714-2005，其实这也无所谓，在Noteexpress里面GB/T7714-2015是英文作者名字全是大写。\n  另外，对参考文献的标题样式（居中、黑体小三且段前后间距在30-36磅）作了规定，并且要求引用的条目要固定行距17磅，段前间距3磅。这个可以手动调，也可以用管理文献工具自动调。\n  对于参考文献管理工具，我个人推荐Windows系统用Noteexpress。作为国产软件，可以分别显示中英文参考文献，还自带多种参考格式（含GB/T7714-2005），并且有石河子大学图书馆版，学校IP地址内免费。"
+  },
+  {
+    "objectID": "posts/2021年石河子大学学位论文格式书写规范变化.html#页面打印要求",
+    "href": "posts/2021年石河子大学学位论文格式书写规范变化.html#页面打印要求",
+    "title": "2021年石河子大学学位论文格式书写规范变化",
+    "section": "页面打印要求",
+    "text": "页面打印要求\n\n2017年：双面打印\n\n\n\n\n\n2021年：\n\n中、英文封面、关于学位论文独创性声明及使用授权声明三页采用单面印刷\n从中文摘要开始（包括中文摘要）后面的部分采用双面印刷。\n\n\n  对页面的打印有了更明确的规定，简单说就是前面三页要单面打印，后面的全部双面打印。"
+  },
+  {
+    "objectID": "posts/2021年石河子大学学位论文格式书写规范变化.html#总结",
+    "href": "posts/2021年石河子大学学位论文格式书写规范变化.html#总结",
+    "title": "2021年石河子大学学位论文格式书写规范变化",
+    "section": "总结",
+    "text": "总结\n\n对论文书写更加细节化与规范化（尽管还有一些细节没完全定义）\n比较大的变化是各种字体的间距规定（建议书写前就提前设置好各级标题的字体和间距）\n最大的变化是页眉的规定（不会分页符的赶快去学）"
+  },
+  {
+    "objectID": "posts/2021年石河子大学学位论文模板.html",
+    "href": "posts/2021年石河子大学学位论文模板.html",
+    "title": "2021年石河子大学学位论文模板我的电子书",
+    "section": "",
+    "text": "终于赶在教师节之前完成了2021年石河子大学学位论文的书写格式规范，里面有很多干货，当然也有很多坑是需要填的，不过我觉得按照我的步骤去设置，至少可以节约80%的时间，就当我给教师节的献礼了。\n目前在Gitee和Github都同步更新了，网址分别是：\nhttps://swcyo.github.io/2021shzuthesis/\nhttp://swcyo.gitee.io/shzuthesis2021\n其中我还设置了一个pdf、word和epub的电子书，只需要在后面加个后缀就可以下载\n分别是：\nhttps://swcyo.gitee.io/shzuthesis2021/bookdown.pdf\nhttps://swcyo.gitee.io/shzuthesis2021/bookdown.docx\nhttps://swcyo.gitee.io/shzuthesis2021/bookdown.pdf\n希望大家认真书写毕业论文，祝愿大家都能顺利毕业，实现人生价值，加油！\n\n在线预览地址（网速好的话可以看到）："
+  },
+  {
+    "objectID": "posts/tinytex-mac.html",
+    "href": "posts/tinytex-mac.html",
+    "title": "Mac系统下如何使用Tinytex本地安装简易latex",
+    "section": "",
+    "text": "昨天写了Tinytex如何本地安装简易latex，可是那是用的Windows系统进行操作，今天试着用Mac系统同法安装，还是出了一点小问题，主要的问题是安装时提示如下：\n\ntinytex::install_tinytex()\nThe directory /usr/local/bin is not writable. I recommend that you make it writable. See https://github.com/yihui/tinytex/issues/24 for more info.\n\n意思是/usr/local/bin这个文件夹不可读，然后给了一个Github上的解决方案，如果GitHub不好登陆的话，可以使用国内镜像https://hub.fastgit.org/yihui//tinytex/issues/24\n在这里有人提问，然后yihui大神就给了解决方案：\n\n\n\n\n\n\n\nThat is odd. /usr/local/bin should be writable by default on (at least recent versions of) macOS. Anyway, see https://stackoverflow.com/a/26647594/559676 for how to regain the write permission. In short, run this in your terminal:\n\nsudo chown -R `whoami`:admin /usr/local/bin\n\nThen this in your terminal (do not use sudo here!):\n\n~/Library/TinyTeX/bin/*/tlmgr path add\n\n\n\n\n\n\n\n\n\n简单的说，就是打开Mac上的终端，首先复制这段代码，然后回车，这时候输入你的电脑密码就可以修改为可读了\nsudo chown -R `whoami`:admin /usr/local/bin\n然后再输入下面这个代码\n~/Library/TinyTeX/bin/*/tlmgr path add\n\n然后就可以用Windows系统的办法进行本地安装了，这里要注意windows系统下载的是zip文件，而mac系统下载的则是tgz文件，我还是建议下载各完整的TinyTeX.tgz。\n官方下载列表\n\n\n\n\nWindows\nmacOS\nLinux\n\n\n\n\nTinyTeX-0\nTinyTeX-0.zip (27 MB)\nTinyTeX-0.tgz (1.4 MB)\nTinyTeX-0.tar.gz (670 KB)\n\n\nTinyTeX-1\nTinyTeX-1.zip (99 MB)\nTinyTeX-1.tgz (83 MB)\nTinyTeX-1.tar.gz (64 MB)\n\n\nTinyTeX\nTinyTeX.zip (200+ MB)\nTinyTeX.tgz (188+ MB)\nTinyTeX.tar.gz (160+ MB)\n\n\ntinitex binary (experimental)\ntinitex.zip (24 MB)\ntinitex.tgz (28 MB)\ntinitex.tar.gz (31 MB)\n\n\n\n然后使用下列代码即可\ntinytex:::install_prebuilt('/Users/mac/Downloads/TinyTeX.tgz') ##记得这里是三个:\n检测是否安装成功\ntinytex::is_tinytex()\n如果出现TRUE，那么恭喜你，安装成功了。。。"
+  },
+  {
+    "objectID": "posts/tinytex.html",
+    "href": "posts/tinytex.html",
+    "title": "Tinytex如何本地安装简易latex",
+    "section": "",
+    "text": "tinytex是yihui开发出来的一款简易Latex工具，不需要安装额外的Latex和包，主要用于rmarkdown的后期渲染效果，比如说你用bookdown写了一本电子书，直接knitr后是一本Gitbook的电子书，但是如果你想渲染成pdf或word，就需要使用到Latex，安装bookdown是顺带就安装了tinytex这个R包，但是并不是说你就已经安装了Tiny Tex了，也就是说tinytex ≠ TinyTeX，tinytex只是个R包，你还需要安装TinyTeX框架。\n可是就国内这个限制而言，一般很难直接就安装成功，即使有国内镜像，也会经常掉线，所以我们可以选择折中的办法进行本地安装，即第一步就下载需要的文件，然后进行本地安装。"
+  },
+  {
+    "objectID": "posts/tinytex.html#安装tinytex-r包",
+    "href": "posts/tinytex.html#安装tinytex-r包",
+    "title": "Tinytex如何本地安装简易latex",
+    "section": "安装tinytex R包",
+    "text": "安装tinytex R包\ninstall.packages('tinytex')"
+  },
+  {
+    "objectID": "posts/tinytex.html#安装-tinytex框架",
+    "href": "posts/tinytex.html#安装-tinytex框架",
+    "title": "Tinytex如何本地安装简易latex",
+    "section": "安装 TinyTeX框架",
+    "text": "安装 TinyTeX框架\n\n在线安装办法\ntinytex::install_tinytex()\n## trying URL 'https://yihui.org/tinytex/TinyTeX-1.zip'\n一般这种情况下这种情况经常掉线，或者网速很慢，我们从下面的解释可以看出其实是下载https://yihui.org/tinytex/TinyTeX-1.zip 这个压缩包，所以我们可以先下载好压缩包，然后本地安装。\n\n\n本地安装办法\n这里有个官方的列表\n\n\n\n\nWindows\nmacOS\nLinux\n\n\n\n\nTinyTeX-0\nTinyTeX-0.zip (27 MB)\nTinyTeX-0.tgz (1.4 MB)\nTinyTeX-0.tar.gz (670 KB)\n\n\nTinyTeX-1\nTinyTeX-1.zip (99 MB)\nTinyTeX-1.tgz (83 MB)\nTinyTeX-1.tar.gz (64 MB)\n\n\nTinyTeX\nTinyTeX.zip (200+ MB)\nTinyTeX.tgz (188+ MB)\nTinyTeX.tar.gz (160+ MB)\n\n\ntinitex binary (experimental)\ntinitex.zip (24 MB)\ntinitex.tgz (28 MB)\ntinitex.tar.gz (31 MB)\n\n\n\n我们可以看到有TinyTeX-0、TinyTeX-1、TinyTeX和tinitex binary 四种文件，简单解释就是TinyTeX-0是最基础框架，没有包，TinyTeX-1包括了大约90种包，而TinyTeX则包括了更多的包（看容量大小也知道）。一般默认的是TinyTeX-1这个框架，但是我倒是建议你安装TinyTeX这个更全的框架。\n如果想本地安装，我们先将下载的zip文件保存好，然后使用下列代码即可\n tinytex:::install_prebuilt('D:\\\\我的下载\\\\TinyTeX.zip') ##记得这里是三个:\n## 复制了 3 个文件\n## 复制了 1 个文件\n## Running fc-cache -v -r"
+  },
+  {
+    "objectID": "posts/tinytex.html#检测是否安装成功",
+    "href": "posts/tinytex.html#检测是否安装成功",
+    "title": "Tinytex如何本地安装简易latex",
+    "section": "检测是否安装成功",
+    "text": "检测是否安装成功\ntinytex::is_tinytex()\n如果出现[1] TRUE，那么恭喜你，安装成功了，这个时候你就可以使用Latex去渲染pdf了"
   }
 ]
