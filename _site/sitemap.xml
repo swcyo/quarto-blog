@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https:/swcyo.rbind.io/index.html</loc>
-    <lastmod>2022-11-22T18:14:26.014Z</lastmod>
-  </url>
-  <url>
-    <loc>https:/swcyo.rbind.io/about.html</loc>
-    <lastmod>2022-11-22T18:07:55.304Z</lastmod>
-  </url>
-  <url>
-    <loc>https:/swcyo.rbind.io/software.html</loc>
-    <lastmod>2022-11-22T18:09:04.018Z</lastmod>
-  </url>
-  <url>
-    <loc>https:/swcyo.rbind.io/link.html</loc>
-    <lastmod>2022-11-22T18:09:03.294Z</lastmod>
-  </url>
-  <url>
-    <loc>https:/swcyo.rbind.io/achievements/publication.html</loc>
-    <lastmod>2022-11-22T18:14:35.253Z</lastmod>
-  </url>
-  <url>
-    <loc>https:/swcyo.rbind.io/achievements/project.html</loc>
-    <lastmod>2022-11-22T18:02:58.437Z</lastmod>
-  </url>
-  <url>
-    <loc>https:/swcyo.rbind.io/achievements/award.html</loc>
-    <lastmod>2022-11-22T18:14:35.934Z</lastmod>
-  </url>
-  <url>
     <loc>https:/swcyo.rbind.io/posts/post-with-code/index.html</loc>
-    <lastmod>2022-11-22T18:14:41.444Z</lastmod>
+    <lastmod>2022-11-22T18:29:49.612Z</lastmod>
   </url>
   <url>
     <loc>https:/swcyo.rbind.io/posts/welcome/index.html</loc>
-    <lastmod>2022-11-22T18:14:45.772Z</lastmod>
-  </url>
-  <url>
-    <loc>https:/swcyo.rbind.io/slide/Quarto slides demonstration.html</loc>
-    <lastmod>2022-11-22T18:17:59.250Z</lastmod>
+    <lastmod>2022-11-22T18:29:50.023Z</lastmod>
   </url>
   <url>
     <loc>https:/swcyo.rbind.io/posts/Quarto/Quarto demonstration.html</loc>
-    <lastmod>2022-11-22T18:14:27.669Z</lastmod>
+    <lastmod>2022-11-22T18:29:51.017Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/swcyo.rbind.io/slide/Quarto slides demonstration.html</loc>
+    <lastmod>2022-11-22T18:29:58.891Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/swcyo.rbind.io/achievements/publication.html</loc>
+    <lastmod>2022-11-22T18:29:59.286Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/swcyo.rbind.io/achievements/award.html</loc>
+    <lastmod>2022-11-22T18:29:59.768Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/swcyo.rbind.io/achievements/project.html</loc>
+    <lastmod>2022-11-22T18:30:00.216Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/swcyo.rbind.io/link.html</loc>
+    <lastmod>2022-11-22T18:30:00.609Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/swcyo.rbind.io/index.html</loc>
+    <lastmod>2022-11-22T18:30:01.030Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/swcyo.rbind.io/about.html</loc>
+    <lastmod>2022-11-22T18:30:01.420Z</lastmod>
+  </url>
+  <url>
+    <loc>https:/swcyo.rbind.io/software.html</loc>
+    <lastmod>2022-11-22T18:30:01.794Z</lastmod>
   </url>
 </urlset>
